@@ -1,0 +1,28 @@
+body {
+  background-color: #ede6db;
+}
+hr {
+  border-style: dotted none none none;
+  /* border-bottom-style: none; */
+  /* border-left-style: none; */
+  /* border-right-style: none; */
+  height: 0px;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+  /* background-color: white; */
+}
+h1 {
+  color: #6fdfdf;
+}
+h2 {
+  color: #6fdfdf;
+}
+h3 {
+  color: #6fdfdf;
+}
+/* a {
+  color: #6fdfdf;
+  text-decoration:dotted;
+  cursor: auto;
+} */
